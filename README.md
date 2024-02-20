@@ -21,4 +21,4 @@ Welcome to our Cooking Blog Site! Explore a variety of random dishes, submit you
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/cooking-blog-site.git
+   git clone https://github.com/pruthviraj7/cooking-blog-site.git
